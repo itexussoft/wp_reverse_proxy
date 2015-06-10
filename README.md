@@ -27,7 +27,7 @@ e.g.
 1. Upload `reverse_proxy` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Set options on plugin setup page
-4. Use '<? external_site_link(); ?>' in your templates
+4. Use `<? external_site_link(); ?>` in your templates
 
 
 ### Changelog 
