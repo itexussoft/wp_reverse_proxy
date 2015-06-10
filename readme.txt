@@ -38,4 +38,3 @@ e.g.
 * Load external site as though it originated from the current itself.
 * Replace all src, href, form action, tag onclick from loaded external page to marked as reversed urls
 
-
